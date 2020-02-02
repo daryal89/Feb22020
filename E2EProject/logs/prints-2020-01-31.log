@@ -1,0 +1,8 @@
+22:47:31.401 [main] INFO  resources.base - click on register link
+22:47:31.405 [main] INFO  resources.base - enter name in firstname field
+22:47:38.664 [main] INFO  resources.base - Enter email
+22:47:38.817 [main] INFO  resources.base - Enter passowrd
+22:47:38.924 [main] INFO  resources.base - confirm password
+22:47:39.016 [main] INFO  resources.base - check the captcha bar
+22:47:39.017 [main] INFO  resources.base - accept promotional email box
+22:47:39.116 [main] INFO  resources.base - check terms box condition

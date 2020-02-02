@@ -1,0 +1,8 @@
+13:30:58.625 [main] INFO  resources.base - Test completed
+13:31:21.522 [main] INFO  resources.base - Navigation Bar is displayed
+13:31:23.932 [main] INFO  resources.base - Driver is initialized:
+13:31:26.551 [main] INFO  resources.base - click on register link
+13:31:26.553 [main] INFO  resources.base - enter name in firstname field
+13:31:35.649 [main] INFO  resources.base - Enter email
+13:31:35.880 [main] INFO  resources.base - Enter passowrd
+13:31:36.031 [main] INFO  resources.base - confirm password
